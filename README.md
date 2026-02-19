@@ -1,4 +1,4 @@
-# Wise Banking Interface Simulator
+# Wise
 
 A pixel-perfect, fully editable banking interface simulator designed for content creation, mockups, and demos. Built with React and TypeScript, this app mimics the Wise fintech platform's user interface.
 
